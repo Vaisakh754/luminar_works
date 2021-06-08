@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pattaya&display=swap');
+.main{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+font-family: 'Pattaya', sans-serif;
+}
+body{
+    background-color: black;
+}
+.main{
+    text-align: center;
+    color: white;
+}
+  
+.color{
+    border: 5px solid black;
+    width: 100px;
+    height: 120px;
+   float: left;
+  
+ 
+}
+    .one{
+        margin-left: 270px;
+        background-color: gray;
+    }
+
+.two{
+   
+   
+    background-color:lightgreen;
+}
+.three{
+    
+    background-color:greenyellow;
+    
+}
+.four{
+    
+    background-color:orchid;
+    
+}
+.five{
+   
+    background-color:navy;
+    
+}
+
+.colors{
+    border: 5px solid black;
+    width: 100px;
+    height: 120px;
+    margin-bottom: 20px;
+   float: left;
+   
+    
+}
+.ones{
+    margin-left: 270px;
+ 
+    background-color: gray;
+}
+.twos{
+   
+    background-color: orangered;
+}
+.threes{
+    background-color: rosybrown;
+}
+.fours{
+    background-color:lightsalmon;
+}
+.fives{
+    background-color:lightslategrey;
+}
+.sixs{
+    background-color: violet;
+}
+.sevens{
+    background-color: gray;
+}
+
+.colorss{
+    border: 5px solid black;
+    width: 100px;
+    height: 120px;
+  margin-bottom: 20px;
+    float: left;
+   
+}
+.oness{
+    margin-left: 160px;
+    background-color: #427bf5;
+}
+
+.none{
+    
+
+    background-color:  #281799;
+}
+.twoss{
+
+   background-color: #6b1be3;
+}
+.threess{
+    background-color: #286b3c;
+}
+.fourss{
+    background-color:  #f5ef38;
+}
+.fivess{
+    background-color:  orange;
+}
+.sixss{
+    background-color: red;
+}
+.sevenss{
+    background-color: #de109d;
+}
+.eightss{
+    background-color: #12e0c5;
+}

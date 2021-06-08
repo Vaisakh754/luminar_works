@@ -1,0 +1,74 @@
+/*tagname or classname or id{
+    property:value;
+    property:value2;
+    .....
+};*/
+
+       /* h1{
+            color:purple;
+            text-align: center;
+            text-decoration: underline;
+
+        }
+        #mob{
+            color:red;
+        }
+        .mobiles{
+            color:#34ebcf
+        }*/
+        body{
+            background-color:black;
+           
+        }
+        .mainhead{
+            text-align: center;
+            color: purple;
+          
+
+        }
+        .sub{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-style: normal;
+            color: rebeccapurple;
+        }
+        .main{
+            border-width: 2px;
+            border-style: solid;
+            border-color: saddlebrown;
+           width: 270px;
+           height: 300px;
+           
+           background-color: purple;
+           color:silver;
+           text-align: center;
+           float:left;
+           border-color: white;
+           border-radius: 20;
+           background-image: url('../images/xiomi10pro.jpg');
+            
+
+        }
+        .galaxy-div{
+            background-color: rebeccapurple;
+            background-image: url('../images/samsung.jpeg');
+           
+        }
+        .poco-div{
+            background-color: seagreen;
+            background-image: url('../images/pocox3pro.jpg') ;
+            width: 300px;
+            height: 300px;
+            
+           
+        }
+        .main h1{
+            color: white;
+            text-align: center;
+           
+            
+            
+           
+        }
+
+
+    

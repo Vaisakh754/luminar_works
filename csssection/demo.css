@@ -1,0 +1,56 @@
+body{
+   background-color: black;
+  
+
+}
+.mainhead{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.main{
+    border-width: 2px;
+    border-style: solid;
+    border-color: blueviolet;
+    width: 440px;
+    height: 270px;
+    float:left;
+   
+    border-color:teal;
+    background-image: url('../images/terminal1.jpg');
+}
+.img-a{
+background-image: url('../images/lifeofpie1.jpg');
+}
+.img-b{
+    background-image: url('../images/avatar1.jpg');
+}
+
+
+
+.one{
+    border-width: 2px;
+    border-style: solid;
+    border-color:blue;
+    width: 440px;
+    height: 270px;
+
+    background-color: purple;
+           color:silver;
+           text-align: center;
+           float:left;
+           border-color:teal;
+           border-radius: 20;
+   
+    
+
+}
+.two{
+    background-color:red;
+    
+    
+}
+.three{
+    background-color: blue;
+    
+}

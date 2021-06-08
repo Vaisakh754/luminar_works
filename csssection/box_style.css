@@ -1,0 +1,15 @@
+.main{
+    border:1px solid black;
+    width: 700px ;
+    height: 100px; 
+}
+.top{
+    margin-left: 100px;
+    padding-left: 20px;
+}
+
+.bottom{
+    margin-top: 300px;
+    margin-left: 200px;
+    padding-left: 10px;
+}
